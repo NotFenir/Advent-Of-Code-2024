@@ -2,6 +2,7 @@
 
 using Advent_of_Code_2024;
 using Advent_of_Code_2024.Day1;
+using Advent_of_Code_2024.Day2;
 
-var example = new Day1_2();
+var example = new Day2_2();
 example.Run();

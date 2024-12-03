@@ -12,3 +12,4 @@ C:\Users\mwisn\Desktop\Programy\Rider Projects\Advent of Code 2024\Advent of Cod
 C:\Users\mwisn\Desktop\Programy\Rider Projects\Advent of Code 2024\Advent of Code 2024\obj\Debug\net8.0\Advent of Code 2024.pdb
 C:\Users\mwisn\Desktop\Programy\Rider Projects\Advent of Code 2024\Advent of Code 2024\obj\Debug\net8.0\Advent of Code 2024.genruntimeconfig.cache
 C:\Users\mwisn\Desktop\Programy\Rider Projects\Advent of Code 2024\Advent of Code 2024\obj\Debug\net8.0\ref\Advent of Code 2024.dll
+C:\Users\mwisn\Desktop\Programy\Rider Projects\Advent of Code 2024\Advent of Code 2024\obj\Debug\net8.0\Advent of Code 2024.sourcelink.json
