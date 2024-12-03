@@ -19,7 +19,7 @@ public class Day2_2
     {
         int counterOfGoodLines = 0;
         
-        foreach (var (line, i) in data.Select((val, i) => (val, i)))
+        foreach (var line in data)
         {
             var diffs = GetDiffs(line);
             
