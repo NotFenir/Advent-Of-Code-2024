@@ -31,7 +31,7 @@ public class Day1_2
 
     private static void AddDataToLists(List<string> strLeftTable, List<string> strRightTable)
     {
-        using (StreamReader reader = new StreamReader("C:\\Users\\mwisn\\Desktop\\Programy\\Rider Projects\\Advent of Code 2024\\Advent of Code 2024\\src\\Day1\\exercise 1.txt"))
+        using (StreamReader reader = new StreamReader("..\\..\\..\\src\\Day1\\exercise 1.txt"))
         {
             string? line = "";
             while ((line = reader.ReadLine()) != null)
