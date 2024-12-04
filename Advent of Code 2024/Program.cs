@@ -5,5 +5,5 @@ using Advent_of_Code_2024.Day1;
 using Advent_of_Code_2024.Day2;
 using Advent_of_Code_2024.Day3;
 
-var example = new Day3_1();
+var example = new Day3_2();
 example.Run();
