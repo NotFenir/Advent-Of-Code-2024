@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Advent of Code 2024")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+743097a9fee9ae787e444b320b2f84b76020d508")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2856718dc01b5a3a0560f835452e12fb80e8f66e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Advent of Code 2024")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Advent of Code 2024")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

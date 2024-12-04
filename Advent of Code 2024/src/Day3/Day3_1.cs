@@ -1,10 +1,12 @@
-﻿namespace Advent_of_Code_2024.Day3;
+﻿using System.Text.RegularExpressions;
+
+namespace Advent_of_Code_2024.Day3;
 
 public class Day3_1
 {
     public void Run()
     {
-        string path = "..\\..\\..\\src\\Day3\\data.txt";
+        string path = "..\\..\\..\\src\\Day3\\test data 2.txt";
         List<string> data = [];
         DataManipulator.ReadData(data, path);
         int result = GetSum(data);
